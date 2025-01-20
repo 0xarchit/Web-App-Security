@@ -168,3 +168,12 @@ The goal is making security automated, scalable, and integrated into development
 - Incident response plan
 
 ---
+
+# PortSwigger Labs
+
+1. OS Command Injection:
+![image](https://github.com/user-attachments/assets/a7d1faf1-5872-41fa-91a0-a63186105e7a)
+
+2. Websockets
+![image](https://github.com/user-attachments/assets/b1194936-8278-4e56-a1b7-3c6a8e94fc09)
+---
